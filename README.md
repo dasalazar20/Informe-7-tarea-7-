@@ -4,28 +4,29 @@
  
 1.1 Objetivo General
 
-Comprender sobre la corriente y el voltaje alterno en circuitos eléctricos y a su vez investigar todo referente sobre los capacitores, mediante la redacción del capítulo 11 y 12 del libro “Principios de Circuitos Eléctricos” de Floyd”, para comprender el comportamiento de la corriente y el voltaje alterno en un circuito eléctrico y a su vez reconocer como influye los capacitores en los circuitos con la corriente y voltaje alternos.
+Comprender el funcionamiento y aplicación de los inductores y transformadores dentro de circuitos eléctricos, por medio de la investigación, en fuentes confiables, y resolución de ejercicios de los temas antes previstos, para así lograr tener una visión clara de los principios de la electricidad y de las distintas formas en que se puede presentar un circuito eléctrico, así como las operaciones necesarias para calcular sus magnitudes y funcionamiento.
 
 1.2 Objetivos Espesificos
 
-•	Identificar la forma de onda sinusoidal y sus características 
+•	Describir la construcción y las características
+básicas de un inductor
 
-•	Determinar los diferentes valores de voltaje y corriente en una onda seno
+•	Estudiar varios tipos de inductores
 
-•	Investigar las relaciones angulares de una onda seno
+•	 Analizar circuitos inductivos conmutadores de cd
 
-•	Identificar las características de una onda senoidales
+•	 Examinar algunas aplicaciones de los inductores
 
-•	Reconocer la construcción y las características básicas del capacitor
+•	Explicar la inductancia mutua
 
-•	Identificar los tipos de capacitores
+•	 Analizar el efecto de una carga resistiva a través
+del devanado secundario
 
-•	Analizar capacitores en serie
+•	 Analizar el concepto de carga reflejada en un
+transformador
 
-•	Analizar los capacitores en paralelo
-
-•	Analizar el comportamiento de los capacitores en circuitos AC Y AD
-
+•	 Analizar la igualación de impedancias con
+transformadore
 
 # 2. MARCO TEORICO
 
