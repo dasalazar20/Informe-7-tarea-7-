@@ -1,4 +1,5 @@
 # Informe-7-tarea-7-
+
 # 1. OBJETIVOS 
  
 1.1 Objetivo General
@@ -95,16 +96,38 @@ múltiples
 
  Realizar los ejercicios pares del capitulo 11 y 12 del libro “Principios de Circuitos Eléctricos” de Floyd 
 
-# Capítulo 13 (Inductores)
+# Ejercicio
 
- ![]()
-           
-
-# Capitulo 14 (Trasformadores)
-
- ![]()
+![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Ejercicios/ejercicios%20(4)_1.jpg)
  
+![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Ejercicios/ejercicios%20(4)_2.jpg)
+  
+![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Ejercicios/ejercicios%20(4)_3.jpg)
+  
+![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Ejercicios/ejercicios%20(4)_4.jpg)
+   
+![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Ejercicios/ejercicios%20(4)_5.jpg)
+    
+![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Ejercicios/ejercicios%20(4)_6.jpg)
+     
+![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Ejercicios/ejercicios%20(4)_7.jpg)
+      
+![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Ejercicios/ejercicios%20(4)_8.jpg)
+ 
+![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Ejercicios/ejercicios%20(4)_9.jpg)
+  
+![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Ejercicios/ejercicios%20(4)_10.jpg)
+   
+![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Ejercicios/ejercicios%20(4)_11.jpg)
 
+![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Ejercicios/ejercicios%20(4)_12.jpg)
+
+![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Ejercicios/ejercicios%20(4)_13.jpg)
+
+ ![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Ejercicios/ejercicios%20(4)_14.jpg)
+ 
+ ![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Ejercicios/ejercicios%20(4)_15.jpg)
+ 
 # 4. VIDEO
 
 https://www.youtube.com/watch?v=U0BL56mUpdw
