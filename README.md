@@ -32,68 +32,64 @@ Comprender sobre la corriente y el voltaje alterno en circuitos eléctricos y a 
  
  2.2.1  El inductor básico
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Imagenes/Capitulo%2013/Informe%207%20Circuitos_3.jpg)
  
  2.2.2  Tipos de inductores
  
-   ![]()
+   ![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Imagenes/Capitulo%2013/Informe%207%20Circuitos_4.jpg)
  
  2.2.3  Inductores en serie y en paralelo 
  
-  ![]()
+  ![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Imagenes/Capitulo%2013/Informe%207%20Circuitos_5.jpg)
  
  2.2.4  Inductores en circuitos de CD
  
-   ![]()
+   ![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Imagenes/Capitulo%2013/Informe%207%20Circuitos_6.jpg)
  
  2.2.5  Inductores en circuitos de CA
  
-   ![]()
+   ![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Imagenes/Capitulo%2013/Informe%207%20Circuitos_7.jpg)
  
  2.2.6  Aplicaciones de los inductores 
  
-  
+   ![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Imagenes/Capitulo%2013/Informe%207%20Circuitos_8.jpg)
  
 
-   2.3 Capitulo 12 (Trasformadores)
+   2.3 Capitulo 14 (Trasformadores)
    
  2.3.1  Inductancia mutua
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Imagenes/Capitulo%2014/Informe%207%20Circuitos_9.jpg)
  
  2.3.2  El transformador básico
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Imagenes/Capitulo%2014/Informe%207%20Circuitos_10.jpg)
  
  2.3.3  Transformadores elevadores y reductores
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Imagenes/Capitulo%2014/1.jpg)
  
- 2.2.4  Transformadores elevadores y reductores  
+ 2.2.4   Carga del devanado secundario
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Imagenes/Capitulo%2014/2.jpg)
   
  2.3.5  Carga reflejada
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Imagenes/Capitulo%2014/3.jpg)
  
  2.3.6  Igualación de impedancia
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Imagenes/Capitulo%2014/4.jpg)
  
- 2.3.7 Características de un transformador no ideal
-(transformador real)
- 
-  ![]()
  
  2.3.8 Transformadores con tomas y devanados
 múltiples
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Imagenes/Capitulo%2014/5.jpg)
  
   2.3.9  Localización de fallas
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-7-tarea-7-/blob/main/Imagenes/Capitulo%2014/6.jpg)
 
 # 3.Explicación y Resolución de Ejercicios 
 
