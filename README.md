@@ -95,7 +95,7 @@ múltiples
 
 # 3.Explicación y Resolución de Ejercicios 
 
- Realizar los ejercicios pares del capitulo 11 y 12 del libro “Principios de Circuitos Eléctricos” de Floyd 
+ Realizar los ejercicios pares del capitulo 13 y 14 del libro “Principios de Circuitos Eléctricos” de Floyd 
 
 # Ejercicio
 
