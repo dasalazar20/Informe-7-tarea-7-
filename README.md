@@ -135,13 +135,13 @@ https://www.youtube.com/watch?v=U0BL56mUpdw
 
 # 5. CONCLUSIONES
 
-CAPITULO 11
+CAPITULO 13
 
-Al momento de la redacción y resolución de los ejercicios del capítulo 11 de “Principios de Circuitos Eléctricos” de Floyd se logró comprender los diferentes comportamientos de la corriente y del voltaje alternos identificando la forma de onda sinouidal con sus respectivos valores de voltaje y corriente, y por último se investigó sobre las relaciones angulares que contiene una onda seno
+Al momento de la redacción y resolución de los ejercicios del capítulo 13 de “Principios de Circuitos Eléctricos” de Floyd se logró desribir como esta costruido y las caracteristicas principales de un inductor y a su vez estudiar los diferentes tipos que existen de inductores. se analizo el comportamiento de los inductores en circuitos inductivos en serie y en paralelo y a su vez su comportamiento en circuitos CD y AC
 
-CAPITULO 12
+CAPITULO 14
 
-Al realizar la redacción y resolución de los ejercicios del capítulo 8 de “Principios de Circuitos Eléctricos” de Floyd se logro a ser una investigación profunda sobre todo lo referente a los capacitores como, por ejemplo: su Castruccio, sus características básicas, los diferentes tipos de capacitores con su finalidad. Asu vez se analizo los capacitores en serie y en paralelo logrando así calcular su valor con sus respectivas formulas y por ultimo se analizo el comportamiento que tiene los capacitores al estar presentes en circuitos AC y AD
+Al realizar la redacción y resolución de los ejercicios del capítulo 14 de “Principios de Circuitos Eléctricos” de Floyd se logro describir como esta compuesto y como funciona un trasformador asi como incrementan o disminuyen el voltaje, se analizo la carga reflegada de un trasformador y por ultimo se analizo la igualacion de impedancias con trasformadores.
 
 # 6. BIBLIOGRAFIA
 
